@@ -1,5 +1,5 @@
 ' Was looking for an example to read from an access database where data is in a form and export it in a format 
-' to move it into EverNote. 
+' to move it into EverNote.  Adding to GitHub
 '
 ' In the forum where found code, person had issues when they adapted the original example: 
 '
@@ -9,6 +9,7 @@
 'I am running into trouble in the above VB statement if i try to export a lot of reports individually. I do not understand if the Employees.[EmployeeID] From Employees is referring to a table, the form or ......
 'I also get errors using the _ & statement in Access 2003.
 'Also if i try to run Access asks me about a macro to start. So a lot goes wrong
+'
 
 Dim MyDB As DAO.Database
 Dim MyRS As DAO.Recordset
